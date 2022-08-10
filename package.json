@@ -1,0 +1,27 @@
+{
+  "name": "ticketsearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkornilov/ticketsearch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkornilov/ticketsearch/issues"
+  },
+  "homepage": "https://github.com/lkornilov/ticketsearch#readme",
+  "devDependencies": {
+    "playwright": "^1.24.2",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "codeceptjs": "^3.3.4"
+  },
+  "description": ""
+}
